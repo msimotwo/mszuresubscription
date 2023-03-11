@@ -13,7 +13,14 @@ Hello, my name is Meshach Simotwo and I am a IT Professional. Today I will be sh
 - A Laptop/PC
 - A Network Connection
 
+*<h2>List Of Prerequisites</h2>*
+
 <p>
 <img src="https://i.imgur.com/zJqyKOL.png" height="80%" width="80%" alt="Account Setup"/>
 </p>
+
+- Creating an Account
+  - Using a Microsoft or 3rd party email provider, setup an email and password login.
+  - These will be your credentials towards using Azure.
+
 
