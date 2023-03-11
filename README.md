@@ -36,6 +36,6 @@ Hello, my name is Meshach Simotwo and I am a IT Professional. Today I will be sh
 
 - Put down your birthdate
 
-<h2>After you have put in all the correct credentials towards your account setup, it will ask you to access your email for a verification code.</h2>
+*<h2>After you have put in all the correct credentials towards your account setup, it will ask you to access your email for a verification code.</h2>*
 
 
