@@ -30,4 +30,12 @@ Hello, my name is Meshach Simotwo and I am a IT Professional. Today I will be sh
 - Set up your name
   - This part of information setup is important. Azure will be addressing you towards the name you choose to use.
 
+<p>
+<img src="https://i.imgur.com/g9T5zYs.png" height="80%" width="80%" alt="Account Setup"/>
+</p>
+
+- Put down your birthdate
+
+<h2>After you have put in all the correct credentials towards your account setup, it will ask you to access your email for a verification code.</h2>
+
 
