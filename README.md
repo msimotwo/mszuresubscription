@@ -38,4 +38,15 @@ Hello, my name is Meshach Simotwo and I am a IT Professional. Today I will be sh
 
 *<h2>After you have put in all the correct credentials towards your account setup, it will ask you to access your email for a verification code.</h2>*
 
+<p>
+<img src="https://i.imgur.com/iIDvQ0i.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+- Microsoft will send an email with a security code for verification. 
+   - This part is very crucial since it is part of the last steps of account setup.
+
+
+
+
+
 
