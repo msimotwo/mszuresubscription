@@ -3,7 +3,7 @@
 </p>
 
 <h1>How to Get A Microsoft Azure Subscription</h1>
-Hello, my name is Meshach Simotwo and I am a IT Professional. Today I will be showing you these easy required steps into obtaining a Micorsoft Azure Account. Microsoft Azure is a cloud computing software used by millions around the wolrd. Some of the most common applications used by Azure would be VM's (Virtual Machines), management, Network Security Groups, and more.<br />
+Hello, my name is Meshach Simotwo and I am a IT Professional. Today I will be showing you these easy required steps into obtaining a Micorsoft Azure Account. Microsoft Azure is a cloud computing software used by millions around the world. Some of the most common applications used by Azure would be VM's (Virtual Machines), management, Network Security Groups, and more.<br />
 
 *<h2>Environments and Technologies Used</h2>*
 - Microsoft Azure (Virtual Machines/Compute)
