@@ -23,4 +23,11 @@ Hello, my name is Meshach Simotwo and I am a IT Professional. Today I will be sh
   - Using a Microsoft or 3rd party email provider, setup an email and password login.
   - These will be your credentials towards using Azure.
 
+<p>
+<img src="https://i.imgur.com/9h8QN3J.png" height="80%" width="80%" alt="Account Setup"/>
+</p>
+
+- Set up your name
+  - This part of information setup is important. Azure will be addressing you towards the name you choose to use.
+
 
