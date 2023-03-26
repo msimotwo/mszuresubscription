@@ -44,6 +44,12 @@ Hello, my name is Meshach Simotwo and I am a IT Professional. Today I will be sh
 
 - Microsoft will send an email with a security code for verification. 
    - This part is very crucial since it is part of the last steps of account setup.
+- Once you have completed the verification step, you will have access to Microsoft Azure.
+   - You  can choose to have a subscription for usage such as Resource Groups, Virtual Machines, etc.
+   - Entering in your Debit/Credit information and other credentials will unlock and give you access to a $200 credit to use.
+    - Remember to remove/delete any background Resource Groups or VM's so your account will not get charged for background activity.
+    
+<h2> And VIOLA! You now have access to Microsoft Azure!</h2>
 
 
 
